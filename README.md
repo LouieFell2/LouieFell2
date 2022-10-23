@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm John Andreop</h1>
+<h1 align="center">Hi 👋, I'm Louie Fell</h1>
 <p align="center">
   <img src="https://imgur.com/eTIxG7c.gif">
 </p>
 
-- 🔭 I’m currently working on [Astrabots.xyz](https://astrabots.xyz)
+- 🔭 I’m currently working on [SdvBots.xyz](https://SdvBots.xyz)
 
-- 👯 I’m looking to collaborate on [Astrabots.xyz](https://astrabots.xyz)
+- 👯 I’m looking to collaborate on [SdvBots.xyz](https://SdvBots.xyz)
 
-- 🤝 I’m looking for help with [Astrabots.xyz](https://astrabots.xyz)
+- 🤝 I’m looking for help with [SdvBots.xyz](https://SdvBots.xyz)
 
 ---
-**__Hello, you've been welcomed to Astra Bots!__**
+**__Hello, you've been welcomed to SDV Bots!__**
 > This server is mostly for discord bots and servers and is dependent on advertising. You may also talk, relax, and listen to music while testing various discord bots and servers and voting for your favorites.
 
 :sunglasses: **Do you have a strong ego?** Promote your Discord bots and servers and receive the most valuable statistic of all individuals.
