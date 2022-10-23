@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Louie Fell</h1>
 <p align="center">
-  <img src="https://imgur.com/eTIxG7c.gif">
+  <img src="GIF HERE">
 </p>
 
 - 🔭 I’m currently working on [SdvBots.xyz](https://SdvBots.xyz)
@@ -22,7 +22,7 @@
 -DISCLAIMER
 If you have any questions about the information provided above, please do not hesitate to inquire. Before you join the server, think about why you want to be there.
 ```
-Join https://discord.gg/sQQFSnQhdt and put an end to your missed opportunities.
+Join https://discord.gg/JgxkwvyAMJ and put an end to your missed opportunities.
 
 ---
 
