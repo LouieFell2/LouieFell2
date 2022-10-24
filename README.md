@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Louie Fell</h1>
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1033338443704582184/1034084321251819550/standard.webm">
+  <img src="https://images-ext-1.discordapp.net/external/FH87HDMywdSWKysZQK2QQaI3e8ClxH_KaVVKxya0naE/https/share.creavite.co/Ck7HvpFbGI7PH0Tj.gif">
 </p>
 
 - 🔭 I’m currently working on [sdvdocs.xyz](https://docs.sdvdash.live/)
