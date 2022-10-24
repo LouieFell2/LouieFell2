@@ -3,11 +3,11 @@
   <img src="https://camo.githubusercontent.com/fce6276656507ab7539654e1b41b772e2305e9f22aa705fac03712adc7eeacad/68747470733a2f2f696d6775722e636f6d2f655449784737632e676966">
 </p>
 
-- 🔭 I’m currently working on [SdvBots.xyz](https://SdvBots.xyz)
+- 🔭 I’m currently working on [sdvdocs.xyz](https://docs.sdvdash.live/)
 
-- 👯 I’m looking to collaborate on [SdvBots.xyz](https://SdvBots.xyz)
+- 👯 I’m looking to collaborate on [sdvdocs.xyz](https://docs.sdvdash.live/)
 
-- 🤝 I’m looking for help with [SdvBots.xyz](https://SdvBots.xyz)
+- 🤝 I’m looking for help with [sdvdocs.xyz](https://docs.sdvdash.live/)
 
 ---
 **__Hello, you've been welcomed to SDV Bots!__**
