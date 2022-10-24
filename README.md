@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Louie Fell</h1>
 <p align="center">
-  <img src="https://imgur.com/a/cHvHZJB.gif">
+  <img src="https://i.imgur.com/AIcJE9K.gif">
 </p>
 
 - 🔭 I’m currently working on [sdvdocs.xyz](https://docs.sdvdash.live/)
