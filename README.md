@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Louie Fell</h1>
 <p align="center">
-  <img src="file:///C:/Users/Onewa/Downloads/standard.gif">
+  <img src="https://cdn.discordapp.com/attachments/1033338443704582184/1034084321251819550/standard.webm">
 </p>
 
 - 🔭 I’m currently working on [sdvdocs.xyz](https://docs.sdvdash.live/)
