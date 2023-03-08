@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Louie Fell</h1>
 <p align="center">
-HELLO WORLD\nI'M A SOFTWARE DEVELOPER
+  <img src="intro.gif" alt="" />
 
 - 🔭 I’m currently working on [Portfolio](https://portfolio.sdvdash.live/)
 
