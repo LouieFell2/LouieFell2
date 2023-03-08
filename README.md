@@ -3,9 +3,9 @@
   <img src="https://github.com/LouieFell2/LouieFell2/blob/main/gifgit.gif">
 </p>
 
-- 🔭 I’m currently working on [sdvdocs.xyz](https://docs.sdvdash.live/)
+- 🔭 I’m currently working on [Portfolio](https://portfolio.sdvdash.live/)
 
-- 👯 I’m looking to collaborate on [sdvdocs.xyz](https://docs.sdvdash.live/)
+- 👯 I’m looking to collaborate on [Strange.xyz](https://docs.sdvdash.live/)
 
 - 🤝 I’m looking for help with [sdvdocs.xyz](https://docs.sdvdash.live/)
 
